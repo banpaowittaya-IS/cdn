@@ -1,5 +1,4 @@
 
-/* cssLogin */
   .show {
     margin-left: auto;
     margin-right: auto;
@@ -316,6 +315,8 @@
   .signup a:hover {
     text-decoration: underline;
   }
+
+
 
   .search-box{
   position: relative;
@@ -1715,6 +1716,8 @@ html::-webkit-scrollbar-thumb{
 
 
 
+
+
 .wrapper .dataField_profile {
   align-items: left;
   text-align:left;
@@ -2015,6 +2018,20 @@ html::-webkit-scrollbar-thumb{
   }
 
 
+
+
+  /* @import url('https://fonts.googleapis.com/css?family=Prompt:400,700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Prompt', sans-serif;
+}
+body{
+  background-image: linear-gradient(to right bottom, #072c65, #4d307b, #872a83, #be197b, #eb1265);
+  padding: 0 10px;
+} */
 .card-header {
   color:#6867AC;
 }
@@ -2229,6 +2246,7 @@ html::-webkit-scrollbar-thumb{
     flex-direction: row;
   }
 }
+
 
 
 #findPersonnel {
